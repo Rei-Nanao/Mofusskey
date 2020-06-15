@@ -1,0 +1,22 @@
+{
+  "name": "mofusskey",
+  "version": "1.0.0",
+  "description": "Mofusskey is a client of Misskey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinnrinn/Mofusskey.git"
+  },
+  "author": "Rei Nanao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinnrinn/Mofusskey/issues"
+  },
+  "homepage": "https://github.com/sinnrinn/Mofusskey#readme",
+  "dependencies": {
+    "corekey": "^1.0.0"
+  }
+}
